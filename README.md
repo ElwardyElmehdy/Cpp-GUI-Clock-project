@@ -1,1 +1,1 @@
-# c-GUI-Clock-project
+# C++ GUI Clock project
